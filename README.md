@@ -1,7 +1,6 @@
 # PDF CODE
 Criar arquivo PDF com SENHA em .NET CORE 5.0
 
-
 ## USE
 
 dotnet add package iTextSharp.LGPLv2.Core --version 1.7.3

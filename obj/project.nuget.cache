@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2WhbRJ/QAtSDTnn4lZIkJGJt56G4FHOQRLBJcPZQWvMXq12bqRveIYZ8EH+zA/Em/uFlwEP36Z7bVuWIWQhiaA==",
+  "dgSpecHash": "cQpvdy5SOohkO7qSBFyc7KSkpCZhLR1jIkVSmEFfTWiyz+FgBvgfqXELU8D6yqR37SPA3Mf7yLDkOGlR72IBCg==",
   "success": true,
-  "projectFilePath": "/Users/macbookpro/Documents/BUILD/pdfcode/pdfcode.csproj",
+  "projectFilePath": "/Users/macbookpro/Documents/BUILD/pdfcomsenha/pdfcode.csproj",
   "expectedPackageFiles": [
     "/Users/macbookpro/.nuget/packages/itextsharp.lgplv2.core/1.7.3/itextsharp.lgplv2.core.1.7.3.nupkg.sha512",
     "/Users/macbookpro/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",

@@ -5556,11 +5556,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/macbookpro/Documents/BUILD/pdfcode/pdfcode.csproj",
+      "projectUniqueName": "/Users/macbookpro/Documents/BUILD/pdfcomsenha/pdfcode.csproj",
       "projectName": "pdfcode",
-      "projectPath": "/Users/macbookpro/Documents/BUILD/pdfcode/pdfcode.csproj",
+      "projectPath": "/Users/macbookpro/Documents/BUILD/pdfcomsenha/pdfcode.csproj",
       "packagesPath": "/Users/macbookpro/.nuget/packages/",
-      "outputPath": "/Users/macbookpro/Documents/BUILD/pdfcode/obj/",
+      "outputPath": "/Users/macbookpro/Documents/BUILD/pdfcomsenha/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

@@ -1,0 +1,9 @@
+/Users/macbookpro/Documents/BUILD/pdfcomsenha/bin/Debug/net5.0/win10-x64/publish/pdfcode.exe
+/Users/macbookpro/Documents/BUILD/pdfcomsenha/bin/Debug/net5.0/win10-x64/publish/pdfcode.dll
+/Users/macbookpro/Documents/BUILD/pdfcomsenha/bin/Debug/net5.0/win10-x64/publish/pdfcode.deps.json
+/Users/macbookpro/Documents/BUILD/pdfcomsenha/bin/Debug/net5.0/win10-x64/publish/pdfcode.runtimeconfig.json
+/Users/macbookpro/Documents/BUILD/pdfcomsenha/bin/Debug/net5.0/win10-x64/publish/pdfcode.pdb
+/Users/macbookpro/Documents/BUILD/pdfcomsenha/bin/Debug/net5.0/win10-x64/publish/iTextSharp.LGPLv2.Core.dll
+/Users/macbookpro/Documents/BUILD/pdfcomsenha/bin/Debug/net5.0/win10-x64/publish/Microsoft.Win32.SystemEvents.dll
+/Users/macbookpro/Documents/BUILD/pdfcomsenha/bin/Debug/net5.0/win10-x64/publish/BouncyCastle.Crypto.dll
+/Users/macbookpro/Documents/BUILD/pdfcomsenha/bin/Debug/net5.0/win10-x64/publish/System.Drawing.Common.dll
